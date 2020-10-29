@@ -1,0 +1,39 @@
+Date: 2020-10-29 07:14:00 UTC
+Reloads: ON
+Restore Method: external
+User mode: Free
+BackupGuard version: 1.4.8.1
+Supported archive version: 5
+Database prefix: wp_
+Site URL: http://localhost/personalblogwebsitedemothisisanwordpresswebsite
+Home URL: http://localhost/personalblogwebsitedemothisisanwordpresswebsite
+Uploads path: C:\xampp\htdocs\personalblogwebsitedemothisisanwordpresswebsite/wp-content/uploads
+Site installation: standard
+OS: WINNT
+Server: Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.2.32
+User agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+PHP version: 7.2.32
+MySQL version: 5.5.5
+Int size: 8
+Int lib: bcmath
+Memory limit: 512M
+Max execution time: 120
+Disk free space: 56.9GB
+CURL available: Yes
+Openssl version: OpenSSL 1.1.1g  21 Apr 2020
+CURL version: 7.67.0 / SSL: OpenSSL/1.1.1g / libz: 1.2.11
+Email notifications: OFF
+FTP passive mode: OFF
+Exclude paths: 
+Tables to exclude: 
+Number of rows to backup: 10000
+AJAX request frequency: 
+Archive Size: 66.3MB (66296239 bytes)
+Environment: Wordpress 5.5.1
+
+---
+Archive version: 5
+Archive database prefix: wp_
+Archive site URL: http://personalblog.hmsshakil.xyz
+
+2020-10-29 07:14:00: SGExceptionMigrationError: You should install <b>BackupGuard Pro</b> to be able to migrate the website. More detailed information regarding features included in <b>Free</b> and <b>Pro</b> versions you can find here: <a href='https://backup-guard.com/products/backup-wordpress'>https://backup-guard.com/products/backup-wordpress</a> [File: C:\xampp\htdocs\personalblogwebsitedemothisisanwordpresswebsite\wp-content\plugins\backup\com\lib\SGArchive.php, Line: 487, URL: /personalblogwebsitedemothisisanwordpresswebsite/bg_restore.php?k=902e394207916d84dabd5cb77ffeac78&action=awake]

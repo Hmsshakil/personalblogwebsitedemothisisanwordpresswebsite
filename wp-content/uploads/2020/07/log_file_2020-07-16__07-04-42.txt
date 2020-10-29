@@ -1,0 +1,87 @@
+
+---Downloaded files---
+The import files for: Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/personalblog
+Data file = C:\xampp\htdocs\personalblog/wp-content/themes/impose/admin/demo-data/content.xml
+Widget file = C:\xampp\htdocs\personalblog/wp-content/themes/impose/admin/demo-data/widgets.wie
+Customizer file = C:\xampp\htdocs\personalblog/wp-content/themes/impose/admin/demo-data/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				Blond girl with long hair looking at camera by the seaside		" (Media)
+[ERROR] Failed to import "
+				Black And White Contemporary Interior		" (Media)
+[ERROR] Failed to import "
+				Portrait Of Beautiful Young Woman With Hat		" (Media)
+[ERROR] Failed to import "
+				Young Sexy Woman In Sunglasses		" (Media)
+[ERROR] Failed to import "
+				Model With Flower In Trendy Summer Dress		" (Media)
+[ERROR] Failed to import "
+				Young Sexy Woman In Sunglasses		" (Media)
+[ERROR] Failed to import "
+				Model With Flower In Trendy Summer Dress		" (Media)
+[ERROR] Failed to import "
+				Red Man On White Background		" (Media)
+[ERROR] Failed to import "
+				kaboompics.com_Less Is More (Custom)		" (Media)
+[ERROR] Failed to import "
+				kaboompics.com_Little white coffee table (Custom)		" (Media)
+[ERROR] Failed to import "
+				Sensual portrait of beautiful young blond woman		" (Media)
+[ERROR] Failed to import "
+				Portrait of serious young blonde woman looking at camera.		" (Media)
+[ERROR] Failed to import "
+				Funky Woman Drinking Water Against The Sky		" (Media)
+[ERROR] Failed to import "
+				Beautiful woman in dress with bike		" (Media)
+[ERROR] Failed to import "
+				Funky Woman Drinking Water Against The Sky		" (Media)
+[ERROR] Failed to import "
+				Emotive young beautiful woman posing on the street		" (Media)
+[ERROR] Failed to import "
+				young beauty woman holding watermelon in her hand		" (Media)
+[ERROR] Failed to import "
+				Walking And Reading Text Message		" (Media)
+[ERROR] Failed to import "
+				Portrait Of Beautiful Young Woman With Hat		" (Media)
+[ERROR] Failed to import "
+				The-VSCO-CAM-of-Kasper-Nyman		" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				Blond girl with long hair looking at camera by the seaside		" (Media)
+[ERROR] Failed to import "
+				Young Sexy Woman In Sunglasses		" (Media)
+
